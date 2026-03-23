@@ -1,0 +1,185 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.code-workspace
+
+# Build
+bin/
+build/
+dist/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle (if used)
+.gradle/
+gradle/
+build/
+gradlew
+gradlew.bat
+
+# Spring Boot
+*.log
+spring-boot.log
+nohup.out
+
+# H2 Database
+*.h2.db
+*.mv.db
+*.trace.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules (if frontend included)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Package managers
+*.egg-info/
+dist/
+build/
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.temp
+~$*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Application specific
+application-local.properties
+application-dev.properties
+application-prod.properties
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+
+# Private keys and secrets
+*.pem
+*.key
+*.pub
+private_key*
+public_key*
+secrets/
+
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+*.class
+*.o
+*.so
+*.a
+*.lib
+
+# Lock files (keep commented if you want to commit them)
+# package-lock.json
+# yarn.lock
+
+# IDE specific
+.vscode/launch.json
+.vscode/settings.json
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Terminal and shell
+.bash_history
+.shell_history
+.zsh_history
+
+# Temp directories
+tmp/
+temp/
+cache/
+
+# Screenshots for development (keep screenshots folder but ignore temp screenshots)
+screenshots/temp/
+screenshots/*.tmp
+
+# Spring Boot specific
+.sts4-cache/
+.apt_generated/
+.apt_generated_tests/
+.factorypath
+
+# JetBrains IDEs
+*.iml
+.idea/
+*.iws
+*.ipr
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+.recommenders
+
+# Misc
+*.swp
+*.swo
+*~
+.classpath
+.project
+.pydevproject
